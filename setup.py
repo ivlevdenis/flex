@@ -26,7 +26,7 @@ setup(
     py_modules=['flex'],
     install_requires=[
         "six>=1.7.3,<2",
-        "PyYAML>=4.1,<5",
+        "PyYAML>=4.2b4,<5",
         "validate-email>=1.2,<2",
         "rfc3987>=1.3.4,<2",
         "requests>=2.4.3,<3",
